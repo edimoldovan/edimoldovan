@@ -4,10 +4,10 @@ I am currently a Senior Principal Engineer at McKinsey & Company. I focus on hel
 
 📫 You can reach me on Twitter [@edimoldovan](https://twitter.com/edimoldovan) or you can have a look at my developping blog [eduardmoldovan.com](eduardmoldovan.com)
 
-[![ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=edimoldovan)](https://github.com/edimoldovan/github-readme-stats)
-
 <!--
 **edimoldovan/edimoldovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=edimoldovan)](https://github.com/edimoldovan/github-readme-stats)
 
 Here are some ideas to get you started:
 
