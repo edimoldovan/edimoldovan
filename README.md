@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently a Senior Principal Engineer at McKinsey & Company. I focus on helping organisations leap forward from technology, product and design perspective to improve their business impact and increase the value they provide top their customers.
+
 📫 You can reach me on Twitter [@edimoldovan](https://twitter.com/edimoldovan) or you can have a look at my developping blog [eduardmoldovan.com](eduardmoldovan.com)
 
 <!--
