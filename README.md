@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: eduardmoldovan.com and @edimoldovan
+📫 You can reach me on Twitter [@edimoldovan](https://twitter.com/edimoldovan) eduardmoldovan.com and 
 
 <!--
 **edimoldovan/edimoldovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
